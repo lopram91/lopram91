@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lopram91
-- 👀 I’m interested in Data Analysis for Food Shelf-life Predictive Modelling using RStudio and Python 
-- 🌱 I’m currently learning at University of Udine as Ph.D. Student
+- 👀 My goal is to deepen the complexities of Food Shel-Life prediction by means of mathematical modelling
+- 🌱 I’m actually a Ph.D. candidate at University of Udine
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 You can reach me at lopriore.marco@spes.uniud.it
 
