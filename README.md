@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lopram91
-- 👀 My goal is to deepen the complexities of Food Shel-Life prediction by means of mathematical modelling
+- 👀 Food scientist passionate about using R and Python to tackle physics- and chemistry-driven problems
 - 🌱 I’m a post-doctoral researcher at University of Udine (Scopus Author ID: 58486739400)
-- 💞️ I’m looking to collaborate on GitHub
+- 🤙🏻 I’m looking to collaborate on GitHub
 - 📫 You can reach me at marco.lopriore@uniud.it
 
 
